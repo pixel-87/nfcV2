@@ -19,3 +19,15 @@ As this is for a busniess, I will need to keep search engine optimisation in min
 - Instead of copy pasting all but `<section>` for each page, I want to make use of templates made specifically for my website.
 - Search Engine Optimisation, while I don't expect it to recieve a lot of traffic, I want to make sure it is noticeable.
 - As I am following a youtube tutorial there will inevitably be similar websites to mine, as my experience grows, I want to have it be unique/my own creation.
+
+## Ideas:
+
+### Unique/Personal design:
+
+To differentiate it from the video I want to add more to the home page, I want to add parallax scrolling, links on the home page as well that take you to different sections
+
+## Attempts:
+
+### Templating:
+
+As there isn't that much HTML code repeated from page to page, the use of templates or static site generators seems to be wastful, as there isn't that much overhead with the current pages.

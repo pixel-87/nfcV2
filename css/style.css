@@ -40,7 +40,10 @@ section {
 
 section.home {
   flex-direction: row;
-  margin-top: 60;
+  margin-top: 60px;
+  justify-content: space-between;
+  padding: 20px;
+  position: relative;
 }
 
 /* EMAIL BUTTON */
@@ -154,8 +157,8 @@ section.home {
 /* HOME PAGE */
 .home-content {
   position: relative;
-  z-index: 10;
-  max-width: 600;
+  max-width: 800;
+  padding-right: 50%;
 }
 
 .home-img {
@@ -207,8 +210,9 @@ section.home {
 .contact-form {
   position: relative;
   background: #f9f9f9;
-  width: calc(100%-400px);
+  width: 1000px;
   padding: 60px 40px 20px;
+  height: 425px;
 }
 
 .contact-form form {
@@ -261,7 +265,8 @@ section.home {
 }
 
 .contact-info {
-  width: 350px;
+  width: 500px;
+  height: 425px;
   background: #f9f9f9;
   padding: 60px 40px 20px;
 }
@@ -291,13 +296,17 @@ section.home {
     display: none;
   }
 
+  .home-content {
+    padding-right: 0px;
+  }
+
   .logo {
     top: 10px;
     left: 40px;
     font-size: 1.5rem;
   }
 
-  section {
+  .section {
     padding: 100px 40px;
   }
 
@@ -331,11 +340,15 @@ section.home {
   .contact-info {
     width: 100%;
     margin-top: 20px;
-    padding: 30px 30px 20px;
+    padding: 50px 20px 20px;
   }
 }
 
 @media (max-width: 768px) {
+  .logo {
+    left: 20px;
+  }
+
   .services {
     grid-template-columns: 1fr;
   }
