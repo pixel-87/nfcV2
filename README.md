@@ -2,6 +2,8 @@
 
 second attempt at making a website
 
+website made mainly following https://www.youtube.com/watch?v=lvYnfMOUOJY&t=370s.
+
 # description
 
 This is intended to be hosted by myself, on either an old laptop or raspberry pi or load balenced between them.
