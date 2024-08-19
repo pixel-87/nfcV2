@@ -25,8 +25,12 @@ As this is for a busniess, I will need to keep search engine optimisation in min
 ### Unique/Personal design:
 
 - To differentiate it from the video I want to add more to the home page, I want to add parallax scrolling, links on the home page as well that take you to different sections
-- add a home page button
+- add a top of page button
 - when toggling the menu, have it take up only part of the screen, and slides back when clicking something outside of it
+
+#### top of page button
+
+- have it appear when the user scrolls past a certain point, and disappear when scrolling back up
 
 ## Attempts:
 
