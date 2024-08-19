@@ -63,8 +63,8 @@ section.home {
 }
 
 .logo {
-  position: fixed;
-  top: 20px;
+  position: absolute;
+  top: 10px;
   left: 50px;
   font-size: 2rem;
   font-weight: 600;
