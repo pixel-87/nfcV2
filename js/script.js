@@ -1,5 +1,5 @@
 const toggle = document.querySelector(".toggle");
-const navigation = document.querySelector(".navigation");
+const navigation = document.querySelector(".navigation.dyno");
 const top_btn = document.querySelector(".top-btn");
 
 toggle.addEventListener("click", () => {
