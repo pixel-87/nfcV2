@@ -29,6 +29,7 @@ As this is for a busniess, I will need to keep search engine optimisation in min
 - add horizontal nav bar on home page below image
 - make logo a button that takes you back to home page
 - when toggling the menu, have it take up only part of the screen, and slides back when clicking something outside of it
+- make social bar along bottom of side nav bar
 
 #### top of page button
 

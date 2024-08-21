@@ -101,7 +101,7 @@ section.home {
   height: 100%;
   background-color: #fff;
   display: flex;
-  justify-content: left;
+  justify-content: center;
   align-items: flex-start;
   transition: 500ms;
 }
@@ -112,10 +112,11 @@ section.home {
   background-color: aqua;
   z-index: 15;
   align-items: center;
+  justify-content: flex-start;
 }
 
 .navigation.dyno.active {
-  left: 80%;
+  left: calc(100% - 170px);
 }
 
 .navigation ul {
@@ -126,7 +127,7 @@ section.home {
 
 .navigation.dyno ul {
   flex-direction: column;
-  margin-left: 100px;
+  margin-left: 2px;
 }
 
 .navigation ul li {
@@ -138,7 +139,7 @@ section.home {
 }
 
 .navigation.dyno ul li {
-  margin: 5px;
+  margin: 10px;
 }
 
 .navigation ul li a {
