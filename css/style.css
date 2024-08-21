@@ -69,6 +69,8 @@ section.home {
   font-size: 2rem;
   font-weight: 600;
   z-index: 20;
+  text-decoration: none;
+  color: inherit;
 }
 
 /* TOGGLE NAV */
