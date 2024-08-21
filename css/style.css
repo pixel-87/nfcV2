@@ -101,7 +101,7 @@ section.home {
   height: 100%;
   background-color: #fff;
   display: flex;
-  justify-content: center;
+  justify-content: left;
   align-items: flex-start;
   transition: 500ms;
 }
@@ -115,7 +115,7 @@ section.home {
 }
 
 .navigation.dyno.active {
-  left: 0;
+  left: 80%;
 }
 
 .navigation ul {
@@ -126,6 +126,7 @@ section.home {
 
 .navigation.dyno ul {
   flex-direction: column;
+  margin-left: 100px;
 }
 
 .navigation ul li {
@@ -155,11 +156,12 @@ section.home {
   position: absolute;
   top: 0;
   left: 0;
-  width: 60px;
+  width: 30px;
   height: 100%;
   display: flex;
-  justify-content: center;
+  justify-content: right;
   align-items: center;
+  margin-left: 10px;
 }
 
 .navigation .social-bar a {
