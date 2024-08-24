@@ -28,8 +28,10 @@ As this is for a busniess, I will need to keep search engine optimisation in min
 - add a top of page button ✓
 - add horizontal nav bar on home page below image✓
 - make logo a button that takes you back to home page
-- when toggling the menu, have it take up only part of the screen, and slides back when clicking something outside of it
-- make social bar along bottom of side nav bar ✓/2 currently the icons are along the left side, need to make social bar into a social box that sits on the bottom
+- when toggling the menu, have it take up only part of the screen, and slides back when clicking something outside of it ✓/2
+- make social bar along bottom of side nav bar ✓/2 currently the icons are along the left side, need to make social bar into a social box that sits on the bottom ✓ now along bottom
+- make email fit on small screen
+- currently nav bar is huge and only part is seen on screen, make it smaller?
 
 #### top of page button
 

@@ -160,13 +160,16 @@ section.home {
 .navigation .social-bar {
   position: absolute;
   bottom: 0;
-  left: 0;
+  left: 110px;
   width: 30px;
-  height: 20%;
   display: flex;
   justify-content: right;
   align-items: flex-end;
-  margin-left: 20px;
+  flex-direction: column;
+}
+
+.navigation .social-bar ul {
+  flex-direction: row;
 }
 
 .navigation .social-bar a {
