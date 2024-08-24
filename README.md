@@ -27,11 +27,12 @@ As this is for a busniess, I will need to keep search engine optimisation in min
 - To differentiate it from the video I want to add more to the home page, I want to add parallax scrolling, links on the home page as well that take you to different sections
 - add a top of page button ✓
 - add horizontal nav bar on home page below image✓
-- make logo a button that takes you back to home page
+- make logo a button that takes you back to home page✓
 - when toggling the menu, have it take up only part of the screen, and slides back when clicking something outside of it ✓/2
 - make social bar along bottom of side nav bar ✓/2 currently the icons are along the left side, need to make social bar into a social box that sits on the bottom ✓ now along bottom
-- make email fit on small screen
-- currently nav bar is huge and only part is seen on screen, make it smaller?
+- make email fit on small screen✓
+- currently nav bar is huge and only part is seen on screen, make it smaller?✓
+- add images, logo, proper text
 
 #### top of page button
 
